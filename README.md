@@ -1,1 +1,1 @@
-# Plant_Species_ML
+# Plant_Species_Identification_ML
